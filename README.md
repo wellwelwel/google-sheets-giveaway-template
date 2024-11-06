@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!IMPORTANT]
 > Esse repositório é um template que te permite realizar sorteios de forma totalmente transparente através do **GitHub Actions** e é pré-configurado para sortear perfis do **LinkedIn** através do **Google Sheets**.
 >
 > Crie seu clone ou _fork_ e edite conforme sua necessidade, sempre respeitando a [licença do template original](https://github.com/wellwelwel/google-forms-giveaway-template/blob/main/LICENSE).
@@ -6,11 +6,6 @@
 ## Quer ganhar gratuitamente o \_\_\_? 🙌
 
 🎖️ Três perfis do LinkedIn serão sorteados para ganhar o \_\_\_ de forma completamente gratuita.
-
-> [!IMPORTANT]
-> O sorteio é realizado de forma totalmente independente pelo autor, não tendo NENHUMA relação com o \_\_\_ ou com o \_\_\_.
-
----
 
 ### 🧑‍⚖️ REGRAS
 
