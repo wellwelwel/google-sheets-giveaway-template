@@ -44,7 +44,7 @@ export const getProfile = (url: string) =>
     .replace(/\r|\n/gm, '')
     .replace(/^(.+)?(http(s)?:\/\/)?(www\.)?linkedin\.com\/in\//, '')
     .replace(/\?.+/, '')
-    .replace(/[^a-z0-9-_]/g, '');
+    .replace(/[^a-z0-9-_%]/g, '');
 
 /**
  * Filters out possible duplicate profiles.
