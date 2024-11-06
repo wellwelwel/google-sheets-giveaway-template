@@ -1,4 +1,4 @@
-name: '🔬 CI — Test'
+name: '🔬 CI — DRAW'
 
 on:
   workflow_dispatch:
