@@ -31,3 +31,8 @@ jobs:
 
       - name: 🧪 Write Results
         run: npm run start
+        env:
+          SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
+          GID: ${{ secrets.GID }}
+          COLUMN_INDEX: ${{ secrets.COLUMN_INDEX }}
+          WINNERS_NUMBER: ${{ secrets.WINNERS_NUMBER }}
