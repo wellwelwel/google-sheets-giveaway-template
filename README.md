@@ -11,7 +11,7 @@
 
 <br />
 
-### ⚠️ IMPORTANT <!-- Remova caso você tenha autoria sobre o prêmio -->
+### ⚠️ IMPORTANTE <!-- Remova caso você tenha autoria sobre o prêmio -->
 
 - O sorteio é realizado de forma totalmente independente pelo autor, não tendo NENHUMA relação com o \_\_\_.
 
