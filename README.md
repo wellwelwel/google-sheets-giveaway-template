@@ -63,7 +63,7 @@
 
 ### 🙋🏻‍♂️ LINKS
 
-- Repositório do Projeto onde será realizado o Sorteio: https://github.com/\_\_\_/\_\_\_
+- Repositório do Sorteio: https://github.com/\_\_\_/\_\_\_
 - Autor do Sorteio: https://www.linkedin.com/in/\_\_\_/
 
 ---
