@@ -1,14 +1,10 @@
-name: '👔 CI — Format'
+name: '🔬 CI — Test'
 
 on:
-  push:
-    branches:
-      - 'main'
-  pull_request:
   workflow_dispatch:
 
 jobs:
-  format:
+  draw:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     strategy:
@@ -33,5 +29,5 @@ jobs:
       - name: 📦 Installing Dependencies
         run: npm ci
 
-      - name: 🤹🏻‍♀️ Prettier Check
-        run: npm run format
+      - name: 🧪 Write Results
+        run: npm run start
