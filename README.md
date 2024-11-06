@@ -3,10 +3,14 @@
 >
 > Crie seu clone ou _fork_ e edite conforme sua necessidade, sempre respeitando a [licença do template original](https://github.com/wellwelwel/google-sheets-giveaway-template/blob/main/LICENSE).
 >
+> Para executar o sorteio, acione o workflow `🎖️ CI — DRAW` ou execute `npm start`.
+>
 > <pre>
 > 🇺🇸 This repository is a template that allows you to run giveaway completely transparently via GitHub Actions and is pre-configured to sweep LinkedIn profiles via Google Sheets.
 > 
 > Create your clone or fork and edit according to your needs, always respecting the license of the original template.
+> 
+> To run the draw, trigger the "🎖️ CI — DRAW" workflow or run "npm start".
 > </pre>
 
 ## Exemplo de Sorteio _(Giveaway Example)_
