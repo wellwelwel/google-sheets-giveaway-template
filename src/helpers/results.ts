@@ -17,8 +17,11 @@ export const randomize = <T>(list: T[]): T[] => {
 /**
  * Print out the first 100 items drawn, where the first three are the winners.
  */
-export const writeResults = async (results: string[]) => {
-  const winners = results.slice(0, 3);
+export const writeResults = async (
+  results: string[],
+  winnersNumber: number = 3
+) => {
+  const winners = results.slice(0, winnersNumber);
 
   console.log('🎖️ Vencedores:');
   console.log(
@@ -27,9 +30,9 @@ export const writeResults = async (results: string[]) => {
   console.log();
 
   console.log(
-    'Caso algum vencedor não responda à mensagem enviada em até um dia corrido,\no próximo participante será escolhido como novo vencedor em seu lugar,\nonde a mesma regra se aplica recursivamente:'
+    'Caso algum vencedor não responda à mensagem enviada em até um dia corrido,\no próximo participante será escolhido como novo vencedor em seu lugar,\nonde a mesma regra se aplica recursivamente:\n'
   );
   console.log(results.slice(0, 100));
-  console.log(' * Apenas os 100 primeiros são exibidos.');
+  console.log('\n* Apenas os 100 primeiros são exibidos.');
   console.log();
 };
