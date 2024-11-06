@@ -1,11 +1,11 @@
 > [!IMPORTANT]
 > 🇧🇷 Esse repositório é um template que te permite realizar sorteios de forma totalmente transparente através do **GitHub Actions** e é pré-configurado para sortear perfis do **LinkedIn** através do **Google Sheets**.
 >
-> Crie seu clone ou _fork_ e edite conforme sua necessidade, sempre respeitando a [licença do template original](https://github.com/wellwelwel/google-forms-giveaway-template/blob/main/LICENSE).
+> Crie seu clone ou _fork_ e edite conforme sua necessidade, sempre respeitando a [licença do template original](https://github.com/wellwelwel/google-sheets-giveaway-template/blob/main/LICENSE).
 >
 > <pre>🇺🇸 This repository is a template that allows you to run giveaway completely transparently via GitHub Actions and is pre-configured to sweep LinkedIn profiles via Google Sheets.
 > 
-> Create your clone or fork and edit according to your needs, always respecting the [license of the original template](https://github.com/wellwelwel/google-forms-giveaway-template/blob/main/LICENSE).
+> Create your clone or fork and edit according to your needs, always respecting the [license of the original template](https://github.com/wellwelwel/google-sheets-giveaway-template/blob/main/LICENSE).
 > 
 > Below is a suggested call in Portuguese only.</pre>
 

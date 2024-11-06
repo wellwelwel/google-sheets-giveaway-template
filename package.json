@@ -2,10 +2,10 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wellwelwel/google-forms-giveaway-template.git"
+    "url": "git+https://github.com/wellwelwel/google-sheets-giveaway-template.git"
   },
   "bugs": {
-    "url": "https://github.com/wellwelwel/google-forms-giveaway-template/issues"
+    "url": "https://github.com/wellwelwel/google-sheets-giveaway-template/issues"
   },
   "author": "https://github.com/wellwelwel",
   "funding": {
