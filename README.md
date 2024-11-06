@@ -7,6 +7,12 @@
 
 🎖️ Três perfis do LinkedIn serão sorteados para ganhar o \_\_\_ de forma completamente gratuita.
 
+### ⚠️ IMPORTANT
+
+- O sorteio é realizado de forma totalmente independente pelo autor, não tendo NENHUMA relação com o \_\_\_.
+
+---
+
 ### 🧑‍⚖️ REGRAS
 
 - Apenas perfis válidos de usuários do LinkedIn serão aceitos (páginas e similares não serão aceitos, assim como outros links ou redes sociais).
