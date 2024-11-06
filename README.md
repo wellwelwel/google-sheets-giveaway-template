@@ -56,7 +56,7 @@
 ### 📆 DATA DO SORTEIO
 
 - O sorteio será acionado manualmente no dia \_\_\_/\_\_\_/\_\_\_, entre \_\_\_hs e \_\_\_hs.
-- Resultados: https://github.com/\_\_\_/\_\_\_/actions/runs/\_\_\_/job/\_\_\_.
+- Resultados: https://github.com/___/___/actions/runs/___/job/___.
 
 ---
 
@@ -79,8 +79,8 @@
 
 ### 🙋🏻‍♂️ LINKS
 
-- Repositório do Sorteio: https://github.com/\_\_\_/\_\_\_
-- Autor do Sorteio: https://www.linkedin.com/in/\_\_\_/
+- Repositório do Sorteio: https://github.com/___/___
+- Autor do Sorteio: https://www.linkedin.com/in/___/
 
 ---
 
