@@ -3,13 +3,15 @@
 >
 > Crie seu clone ou _fork_ e edite conforme sua necessidade, sempre respeitando a [licença do template original](https://github.com/wellwelwel/google-forms-giveaway-template/blob/main/LICENSE).
 
+<!-- Texto sugerido para o Google Forms -->
+
 ## Quer ganhar gratuitamente o \_\_\_? 🙌
 
-🎖️ Três perfis do LinkedIn serão sorteados para ganhar o \_\_\_ de forma completamente gratuita.
+🎖️ \_\_\_ perfis do LinkedIn serão sorteados para ganhar o \_\_\_ de forma completamente gratuita.
 
----
+<br />
 
-### ⚠️ IMPORTANT
+### ⚠️ IMPORTANT <!-- Remova caso você tenha autoria sobre o prêmio -->
 
 - O sorteio é realizado de forma totalmente independente pelo autor, não tendo NENHUMA relação com o \_\_\_.
 
@@ -38,6 +40,7 @@
 ### 📆 DATA DO SORTEIO
 
 - O sorteio será acionado manualmente no dia \_\_\_/\_\_\_/\_\_\_, entre \_\_\_hs e \_\_\_hs.
+- Resultados: https://github.com/\_\_\_/\_\_\_/actions/runs/\_\_\_/job/\_\_\_.
 
 ---
 
@@ -54,7 +57,7 @@
 
 ### 💙 QUER APOIAR O AUTOR DO SORTEIO?
 
-- Não há nenhuma necessidade de seguir, compartilhar ou curtir nada, mas se você quiser contribuir com o autor, uma estrelinha no repositório do \_\_\_ é sempre vinda: https://github.com/\_\_\_/\_\_\_.
+- \_\_\_
 
 ---
 
@@ -67,5 +70,6 @@
 
 ### 🔐 Precaução nunca é demais
 
-- O único responsável por entrar em contato é o autor do sorteio e o processo é totalmente gratuito do início ao fim.
-- Esse é um sorteio feito de "fã para fã", caso você já possua o \_\_\_ ou não tenha interesse em se tornar \_\_\_, por favor, deixe a oportunidade para alguém que realmente tenha esse objetivo.
+- O único responsável por entrar em contato é o autor do sorteio.
+- O processo é totalmente gratuito do início ao fim.
+- Esse é um sorteio feito de "fã para fã", por favor, caso você já possua o \_\_\_, não tenha interesse em usufurir ou se tornar \_\_\_, peço que deixe a oportunidade para alguém que realmente tenha esse objetivo.
