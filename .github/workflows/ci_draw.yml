@@ -34,5 +34,5 @@ jobs:
         env:
           SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
           GID: ${{ secrets.GID }}
-          COLUMN_INDEX: ${{ secrets.COLUMN_INDEX }}
-          WINNERS_NUMBER: ${{ secrets.WINNERS_NUMBER }}
+          COLUMN_INDEX: 1
+          WINNERS_NUMBER: 3
