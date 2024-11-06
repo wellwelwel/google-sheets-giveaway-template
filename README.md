@@ -1,14 +1,14 @@
 > [!NOTE]
-> Esse repositório é um template que te permite realizar sorteios de forma totalmente transparente através do GitHub Actions e é pré-configurado para sortear perfis do LinkedIn através do Google Sheets.
+> Esse repositório é um template que te permite realizar sorteios de forma totalmente transparente através do **GitHub Actions** e é pré-configurado para sortear perfis do **LinkedIn** através do **Google Sheets**.
 >
-> Crie seu clone ou _fork_ e edite conforme sua necessidade, sempre respeitando a [licença do projeto](https://github.com/wellwelwel/google-forms-giveaway-template/blob/main/LICENSE).
+> Crie seu clone ou _fork_ e edite conforme sua necessidade, sempre respeitando a [licença do template original](https://github.com/wellwelwel/google-forms-giveaway-template/blob/main/LICENSE).
 
-## Quer ganhar gratuitamente o curso.dev? 🙌
+## Quer ganhar gratuitamente o \_\_\_? 🙌
 
-🎖️ Três perfis do LinkedIn serão sorteados para ganhar o curso do Filipe Deschamps, de forma completamente gratuita.
+🎖️ Três perfis do LinkedIn serão sorteados para ganhar o \_\_\_ de forma completamente gratuita.
 
 > [!IMPORTANT]
-> O sorteio é realizado de forma totalmente independente pelo autor, não tendo NENHUMA relação com o curso.dev ou com o Filipe Deschamps.
+> O sorteio é realizado de forma totalmente independente pelo autor, não tendo NENHUMA relação com o \_\_\_ ou com o \_\_\_.
 
 ---
 
@@ -25,22 +25,22 @@
 
 - Preecha o formulário com seu perfil do LinkedIn.
 - O sorteio será realizado por meio de um workflow no GitHub Actions, que costuma ficar disponível por até três meses após sua execução.
-- Serão listados os 100 primeiros usuários, onde os três primeiros ganharão gratuitamente o curso.dev.
+- Serão listados os 100 primeiros usuários, onde os três primeiros ganharão gratuitamente o \_\_\_.
 - Para visualizar os resultados diretamente no workflow, é necessário ter uma conta no GitHub.
-- Uma mensagem será enviada nos perfis vencedores com o link para criar uma conta no curso.dev.
+- Uma mensagem será enviada nos perfis vencedores com o link para criar uma conta no \_\_\_.
 - Não será feita segunda tentativa de contato, portanto, fique atento caso seja um dos vencedores.
 
 ---
 
 ### 📆 DATA DO SORTEIO
 
-- O sorteio será acionado manualmente no dia 12/11/2024, entre 22:00hs e 23:00hs.
+- O sorteio será acionado manualmente no dia \_\_\_/\_\_\_/\_\_\_, entre \_\_\_hs e \_\_\_hs.
 
 ---
 
 ### 💡 TRANSPARÊNCIA
 
-- O sorteio é realizado usando o algoritmo Fisher-Yates e possui seu código fonte aberto, assim como a exibição dos resultados.
+- O sorteio é realizado usando o algoritmo [Fisher-Yates](./src/helpers/results.ts) e possui seu código fonte aberto, assim como a exibição dos resultados.
 - O formato escolhido é uma forma de manter a transparência, sem a necessidade do autor precisar recorrer ao formato de Live ou ferramentas terceiras de sorteio.
 - Em caso de dúvidas, você pode chamar o autor do sorteio através do perfil no LinkedIn (outras formas de contato serão ignoradas).
 - Você pode solicitar a remoção do seu perfil da lista de participantes até a data do sorteio.
@@ -51,19 +51,18 @@
 
 ### 💙 QUER APOIAR O AUTOR DO SORTEIO?
 
-- Não há nenhuma necessidade de seguir, compartilhar ou curtir nada, mas se você quiser contribuir com o autor, uma estrelinha no repositório do Poku 🐷 é sempre vinda: https://github.com/wellwelwel/poku.
+- Não há nenhuma necessidade de seguir, compartilhar ou curtir nada, mas se você quiser contribuir com o autor, uma estrelinha no repositório do \_\_\_ é sempre vinda: https://github.com/\_\_\_/\_\_\_.
 
 ---
 
 ### 🙋🏻‍♂️ LINKS
 
-- Repositório do Projeto onde será realizado o Sorteio: (em breve)
-- Autor do Sorteio: https://www.linkedin.com/in/wellwelwel/
-- Repositório do Poku: https://github.com/wellwelwel/poku
+- Repositório do Projeto onde será realizado o Sorteio: https://github.com/\_\_\_/\_\_\_
+- Autor do Sorteio: https://www.linkedin.com/in/\_\_\_/
 
 ---
 
 ### 🔐 Precaução nunca é demais
 
 - O único responsável por entrar em contato é o autor do sorteio e o processo é totalmente gratuito do início ao fim.
-- Esse é um sorteio feito de "fã para fã", caso você já possua o curso ou não tenha interesse em se tornar programador, por favor, deixe a oportunidade para alguém que realmente tenha esse objetivo.
+- Esse é um sorteio feito de "fã para fã", caso você já possua o \_\_\_ ou não tenha interesse em se tornar \_\_\_, por favor, deixe a oportunidade para alguém que realmente tenha esse objetivo.
