@@ -9,7 +9,7 @@ type GetProfileOptions = {
 };
 
 /**
- * Obtém todos os itens da coluna selecionada a partir de um Spread Sheet público.
+ * Gets all the items in the selected column from a public Google Sheet.
  */
 export const getProfiles = async (options: GetProfileOptions) => {
   const {
@@ -32,9 +32,9 @@ export const getProfiles = async (options: GetProfileOptions) => {
 };
 
 /**
- * Captura o perfil no final da URL.
+ * Captures the LinkedIn profile.
  *
- * Isso facilita a identificação de um mesmo link enviado de formas diferentes.
+ * This makes it easier to identify the same profile sent in different ways.
  */
 export const getProfile = (url: string) =>
   url
@@ -47,7 +47,7 @@ export const getProfile = (url: string) =>
     .replace(/[^a-z0-9-_]/g, '');
 
 /**
- * Filtra possíveis perfis repetidos.
+ * Filters out possible duplicate profiles.
  */
 export const getUniqueProfiles = (list: string[]) =>
   [...new Set(list.map(getProfile))].filter(Boolean);

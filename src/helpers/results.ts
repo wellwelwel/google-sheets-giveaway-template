@@ -1,6 +1,6 @@
 /**
- * Fisher-Yates é um algoritmo de embaralhamento que garante uma ordem aleatória imparcial.
- * O algoritmo percorre de forma eficiente a lista trocando cada item por outro item aleatório.
+ * Fisher-Yates is a shuffling algorithm that guarantees an impartial random order.
+ * The algorithm efficiently goes through the list swapping each item for another random item.
  */
 export const randomize = <T>(list: T[]): T[] => {
   const listLength = list.length - 1;
@@ -15,7 +15,7 @@ export const randomize = <T>(list: T[]): T[] => {
 };
 
 /**
- * Imprime os 100 primeiros itens sorteados, onde os três primeiros são os vencedores.
+ * Print out the first 100 items drawn, where the first three are the winners.
  */
 export const writeResults = async (results: string[]) => {
   const winners = results.slice(0, 3);
