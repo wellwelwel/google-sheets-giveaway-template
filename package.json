@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "tsx --env-file=.env './src/index.ts'",
+    "test": "poku -p",
+    "format": "prettier --check .",
+    "format:fix": "prettier --write ."
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "poku": "^2.7.1",
+    "prettier": "^3.3.3",
+    "tsx": "^4.19.2"
+  }
+}
