@@ -3,19 +3,25 @@
 >
 > Crie seu clone ou _fork_ e edite conforme sua necessidade, sempre respeitando a [licença do template original](https://github.com/wellwelwel/google-sheets-giveaway-template/blob/main/LICENSE).
 >
-> <pre>🇺🇸 This repository is a template that allows you to run giveaway completely transparently via GitHub Actions and is pre-configured to sweep LinkedIn profiles via Google Sheets.
+> <pre>
+> 🇺🇸 This repository is a template that allows you to run giveaway completely transparently via GitHub Actions and is pre-configured to sweep LinkedIn profiles via Google Sheets.
 > 
-> Create your clone or fork and edit according to your needs, always respecting the [license of the original template](https://github.com/wellwelwel/google-sheets-giveaway-template/blob/main/LICENSE).
-> 
-> Below is a suggested call in Portuguese only.</pre>
+> Create your clone or fork and edit according to your needs, always respecting the license of the original template.
+> </pre>
+
+## Exemplo de Sorteio _(Giveaway Example)_
+
+<img src="./.github/assets/sample.png" width="480" />
+
+## Template de Chamada _(Call Template)_
+
+<blockquote>
+
+<pre>🇺🇸 Below is a suggested call in Portuguese only.</pre>
 
 ## Quer ganhar gratuitamente o \_\_\_? 🙌
 
 🎖️ \_\_\_ perfis do LinkedIn serão sorteados para ganhar o \_\_\_ de forma completamente gratuita.
-
-> #### Exemplo de Sorteio
->
-> <img src="./.github/assets/sample.png" width="480" />
 
 ### ⚠️ IMPORTANTE <!-- Remova caso você tenha autoria sobre o prêmio -->
 
@@ -79,3 +85,12 @@
 - O único responsável por entrar em contato é o autor do sorteio.
 - O processo é totalmente gratuito do início ao fim.
 - Esse é um sorteio feito de "fã para fã", por favor, caso você já possua o \_\_\_, não tenha interesse em usufurir ou se tornar \_\_\_, peço que deixe a oportunidade para alguém que realmente tenha esse objetivo.
+
+</blockquote>
+
+---
+
+## Licença
+
+**google-sheets-giveaway-template** está sob a licença [**AGPL-3.0**](https://github.com/wellwelwel/poku/blob/main/LICENSE).<br />
+Direitos Autorais © 2024-atual [Weslley Araújo](https://github.com/wellwelwel) e [contribuintes](https://github.com/wellwelwel/poku/graphs/contributors) do **google-sheets-giveaway-template**.
