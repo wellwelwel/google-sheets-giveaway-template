@@ -1,4 +1,4 @@
-name: '🔬 CI — TEST'
+name: '🔬 CI — Test'
 
 on:
   push:
