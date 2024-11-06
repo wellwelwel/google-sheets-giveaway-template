@@ -1,7 +1,9 @@
+import 'dotenv/config';
+import { env } from 'node:process';
 import { getProfiles, getUniqueProfiles } from './helpers/profile.js';
 import { randomize, writeResults } from './helpers/results.js';
 
-const { SPREADSHEET_ID = '', GID } = process.env;
+const { SPREADSHEET_ID = '', GID } = env;
 const profiles = await getProfiles({
   spreadsheetId: SPREADSHEET_ID,
   gid: GID,
