@@ -1,3 +1,8 @@
+> [!NOTE]
+> Esse repositório é um template que te permite realizar sorteios de forma totalmente transparente através do GitHub Actions e é pré-configurado para sortear perfis do LinkedIn através do Google Sheets.
+>
+> Edite conforme sua necessidade.
+
 ## Quer ganhar gratuitamente o curso.dev? 🙌
 
 🎖️ Três perfis do LinkedIn serão sorteados para ganhar o curso do Filipe Deschamps, de forma completamente gratuita.

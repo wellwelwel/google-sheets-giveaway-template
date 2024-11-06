@@ -12,6 +12,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/wellwelwel"
   },
+  "license": "AGPL-3.0-only",
   "scripts": {
     "start": "tsx './src/index.ts'",
     "test": "poku -p",
