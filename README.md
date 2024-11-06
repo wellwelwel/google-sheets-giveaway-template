@@ -1,7 +1,7 @@
 > [!NOTE]
 > Esse repositório é um template que te permite realizar sorteios de forma totalmente transparente através do GitHub Actions e é pré-configurado para sortear perfis do LinkedIn através do Google Sheets.
 >
-> Edite conforme sua necessidade.
+> Edite conforme sua necessidade, sempre respeitando a [licença do projeto](https://github.com/wellwelwel/google-forms-giveaway/blob/main/LICENSE).
 
 ## Quer ganhar gratuitamente o curso.dev? 🙌
 
