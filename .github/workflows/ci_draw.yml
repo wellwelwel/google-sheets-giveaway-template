@@ -1,4 +1,4 @@
-name: '🔬 CI — DRAW'
+name: '🎖️ CI — DRAW'
 
 on:
   workflow_dispatch:
