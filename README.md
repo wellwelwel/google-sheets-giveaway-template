@@ -13,11 +13,9 @@
 
 🎖️ \_\_\_ perfis do LinkedIn serão sorteados para ganhar o \_\_\_ de forma completamente gratuita.
 
-### Exemplo de Sorteio
-
-<img src="./.github/assets/sample.png" width="480" />
-
-<br />
+> #### Exemplo de Sorteio
+>
+> <img src="./.github/assets/sample.png" width="480" />
 
 ### ⚠️ IMPORTANTE <!-- Remova caso você tenha autoria sobre o prêmio -->
 
