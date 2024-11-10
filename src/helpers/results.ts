@@ -1,3 +1,21 @@
+import { styleText } from 'node:util';
+
+const italic = (text: string) => styleText('italic', text);
+
+const bold = (text: string) => styleText('bold', text);
+
+const formatResults = (results: string[]) =>
+  styleText(
+    'green',
+    results
+      .map((result) =>
+        result.includes(' ')
+          ? `  - ${result} — Link Inválido 🔍`
+          : `  - https://www.linkedin.com/in/${result}/`
+      )
+      .join('\n')
+  );
+
 /**
  * Fisher-Yates is a shuffling algorithm that guarantees an impartial random order.
  * The algorithm efficiently goes through the list swapping each item for another random item.
@@ -22,17 +40,16 @@ export const writeResults = async (
   winnersNumber: number = 3
 ) => {
   const winners = results.slice(0, winnersNumber);
+  const firstHundred = results.slice(0, 100);
 
-  console.log('🎖️ Vencedores:');
-  console.log(
-    winners.map((winner) => `https://www.linkedin.com/in/${winner}/`)
-  );
+  console.log(bold('🏅 Vencedores:\n'));
+  console.log(formatResults(winners));
   console.log();
 
   console.log(
-    'Caso algum vencedor não responda à mensagem enviada em até um dia corrido,\no próximo participante será escolhido como novo vencedor em seu lugar,\nonde a mesma regra se aplica recursivamente:\n'
+    '💡 Caso algum vencedor não responda à mensagem enviada em até um dia corrido, o próximo participante será escolhido como novo vencedor em seu lugar, onde a mesma regra se aplica recursivamente:\n'
   );
-  console.log(results.slice(0, 100));
-  console.log('\n* Apenas os 100 primeiros são exibidos.');
+  console.log(formatResults(firstHundred));
+  console.log(italic('\n* Apenas os 100 primeiros são exibidos.'));
   console.log();
 };
